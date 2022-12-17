@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.pygme" />
+          <option value="main.food" />
+          <option value="main.snake" />
+          <option value="main.Screen_height" />
+          <option value="main.Grid_Height" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
